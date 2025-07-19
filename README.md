@@ -69,6 +69,4 @@ The workflow performs the following steps:
 
 By automating these CI and CD processes, the project can be developed, tested, and deployed with confidence, reducing the risk of manual errors and enabling faster feedback and iteration.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request.
